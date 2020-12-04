@@ -15,12 +15,9 @@ h1 {
     font: outline;
     text-align: center;
      }  
-body {
-        background-color: lightblue;
-      }
-.about me{
-    border:4px solid green
-    border-right:4px solid green
-    border-left:4px solid green
-    border-bottom:4px solid green
+body{
+    background-color: skyblue;
 }
+
+        
+     
