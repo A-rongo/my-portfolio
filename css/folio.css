@@ -9,6 +9,7 @@ h1 {
         font-size: 40;
         font: outline;
         text-align: center;
+        border: 6px solid rebeccapurple;
    }  
    h2 {
     color: grey;
